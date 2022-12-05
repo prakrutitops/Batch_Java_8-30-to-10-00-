@@ -1,1 +1,23 @@
 
+Print
+Data Type
+Condition
+
+
+Conditional Statement:
+If,Else if,Else
+
+Multiple Condition:Else if
+
+Switch,case,break
+
+Loop->
+For
+While
+Do While
+
+1)
+for(initialization;condition;incre/decre)
+{
+	print
+}
