@@ -1,0 +1,24 @@
+=>Encapsulation:
+
+=>Inheritance:
+parent-child
+super-sub
+base-derived
+
+1)single->2 class
+2)multilevel->more than 2
+3)multiple->not supported in java
+4)Hierarchical
+5)Hybrid
+
+interface:Collection of abstract methods 
+
+abstract method: A method which does not have
+a body part
+
+keywords:
+1)this
+2)static
+3)super
+4)final
+
