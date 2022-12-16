@@ -1,1 +1,13 @@
+1)Method Overloading:
+When two methods having a same name but 
+number of parameters are diffrent
 
+
+2)Method Overriding :Methods having a same name 
+and number of parameters are also same
+
+StringBuilder ->immutable->can not change
+StringBuffer->mutable->can change
+
+
+String Builder having some predefined methods 
